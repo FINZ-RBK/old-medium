@@ -1,0 +1,9 @@
+.brandFeatured{
+    border-left: 1px solid #c1c1c1 !important;
+    padding-left: 10px !important;
+    font-weight: 300 !important;
+}
+.brandImg {
+    padding:0 !important;
+    margin: 0 !important;
+}
